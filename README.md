@@ -8,6 +8,12 @@ Installation can be done through devtools from the github repo directly. Please 
 2. You have created an access token for your account
 3. You have added that access token to your .Renviron through the GITHUB_PAT variable
 
+For 3, use the usethis package. Then call 
+```R
+usethis::edit_r_environ()
+```
+and add: 
+GITHUB_PAT= * YOUR_TOKEN_FROM_GITHUB *
 When this is done, simple use: 
 
 ``` R
