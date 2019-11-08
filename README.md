@@ -18,7 +18,7 @@ When this is done, simple use:
 
 ``` R
 library(devtools)
-devtools::install_github('beresolved\themeresolved',ref='v1')
+devtools::install_github('beresolved/themeresolved',ref='v1')
 ```
 
 Please note the *ref* setting. The code is not in the default master branch, but in the v1 branch. 
