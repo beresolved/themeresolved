@@ -1,5 +1,5 @@
 #' @export
-ourc <- setNames(c('#002a3a','#5E2750','#004153','#004f71','#008B95','006A4D','#C1BB00','#F2AF00','#D2492A'),
+ourc <- setNames(c('#002a3a','#5E2750','#004153','#004f71','#008B95','#006A4D','#C1BB00','#F2AF00','#D2492A'),
                              nm=c('darkblue','purple','darkblue2','darkblue3','lightblue','green','khaki','orange','red'))
 
 #' theme_resolved
